@@ -1,9 +1,9 @@
-###
+'''
   In the above example, once every frame in the video is processed and detected, 
   the function will receive 
   and prints out the analytical data for objects detected in the video frame 
   as you can see below:
-###
+'''
 #斑马线闯红灯预警
 from imageai.Detection import VideoObjectDetection
 import os
